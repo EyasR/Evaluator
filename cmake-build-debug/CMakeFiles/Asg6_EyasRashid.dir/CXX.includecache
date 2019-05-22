@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg6_EyasRashid/driver.cpp
+iostream
+-
+evaluator.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg6_EyasRashid/evaluator.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg6_EyasRashid/evaluator.cpp.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg6_EyasRashid/evaluator.h
+math.h
+-
+sstream
+-
+vector
+-
+tokenizer.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg6_EyasRashid/tokenizer.h
+evaluator.cpp.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg6_EyasRashid/evaluator.cpp.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg6_EyasRashid/token.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg6_EyasRashid/tokenizer.cpp.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg6_EyasRashid/tokenizer.h
+iostream
+-
+token.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg6_EyasRashid/token.h
+tokenizer.cpp.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg6_EyasRashid/tokenizer.cpp.h
+
